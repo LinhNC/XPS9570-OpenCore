@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/LinhNC/XPS9570-OpenCore/main/Capture.png)
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="XPS9570OpenCore_0"></a>XPS9570-OpenCore</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="3">XPS 9570 Hackintosh with OpenCore<br>
-macOS Catalina (10.15.7) or BigSur (11.0 beta 9) on a Dell XPS 9570.</p>
+macOS Catalina (10.15.7) to BigSur (11.0 beta 10) on a Dell XPS 9570.</p>
 <blockquote>
 <p class="has-line-data" data-line-start="4" data-line-end="6">macOS Catalina: 10.15.4 - 10.15.7<br>
-macOS BigSur: 11.0 beta 2 - 11.0 beta 9</p>
+macOS BigSur: 11.0 beta 2 - 11.0 beta 10</p>
 </blockquote>
 
 <h4 class="code-line" data-line-start=7 data-line-end=8 ><a id="Hardware_configuration_7"></a>Hardware configuration:</h4>
