@@ -21,12 +21,13 @@ Battery: Dell 6GTPY battery (11.4V, 8083mAh, 97Wh stated capacity, reports as 74
 <h4 class="code-line" data-line-start=18 data-line-end=19 ><a id="Software_environment_18"></a>Software environment:</h4>
 <p class="has-line-data" data-line-start="19" data-line-end="21">macOS dual-booting with Windows 10<br>
 DELL BIOS: 1.17.1</p>
+Specical Thanks To @xxxzc
 <br>
 <blockquote>
 For 1080p Screen need to modify your config.plist:<br>
 - Find uiscale and change its value to AQ== <br>
 - Find dpcd-max-link-rate and change its value to CgAAAA==<br>
 </blockquote>
-Specical Thanks To @xxxzc
+
 
 
