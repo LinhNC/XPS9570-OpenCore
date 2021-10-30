@@ -3,77 +3,73 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18G5033</string>
+	<string>19G2021</string>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
+	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>NoTouchID</string>
+	<string>VoltageShift</string>
+	<key>CFBundleGetInfoString</key>
+	<string>VoltageShift 1.22, copyright © 2019 SC Lee. All rights reserved.</string>
 	<key>CFBundleIdentifier</key>
-	<string>xyz.racermaster.NoTouchID</string>
+	<string>com.sicreative.VoltageShift</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>NoTouchID</string>
+	<string>VoltageShift</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.4</string>
+	<string>1.21</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.0.4</string>
+	<string>1.21</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>11C504</string>
+	<string>12A7209</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>10.15.6</string>
 	<key>DTSDKBuild</key>
-	<string>19B90</string>
+	<string>19G68</string>
 	<key>DTSDKName</key>
 	<string>macosx10.15</string>
 	<key>DTXcode</key>
-	<string>1130</string>
+	<string>1200</string>
 	<key>DTXcodeBuild</key>
-	<string>11C504</string>
+	<string>12A7209</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>NoTouchID</key>
+		<key>VoltageShiftAnVMSR</key>
 		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>xyz.racermaster.NoTouchID</string>
 			<key>IOClass</key>
-			<string>NoTouchID</string>
+			<string>VoltageShiftAnVMSR</string>
 			<key>IOMatchCategory</key>
-			<string>NoTouchID</string>
+			<string>VoltageShiftAnVMSR</string>
 			<key>IOProviderClass</key>
 			<string>IOResources</string>
 			<key>IOResourceMatch</key>
 			<string>IOKit</string>
+			<key>IOUserClientClass</key>
+			<string>AnVMSRClient</string>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.13</string>
-	<key>OSBundleCompatibleVersion</key>
-	<string>1.0</string>
+	<string>10.15</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2019 SC Lee. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
 	<dict>
-		<key>as.vit9696.Lilu</key>
-		<string>1.2.0</string>
-		<key>com.apple.kpi.bsd</key>
-		<string>12.0.0</string>
-		<key>com.apple.kpi.dsep</key>
-		<string>12.0.0</string>
 		<key>com.apple.kpi.iokit</key>
-		<string>12.0.0</string>
+		<string>8.0.0b1</string>
 		<key>com.apple.kpi.libkern</key>
-		<string>12.0.0</string>
-		<key>com.apple.kpi.mach</key>
-		<string>12.0.0</string>
-		<key>com.apple.kpi.unsupported</key>
-		<string>12.0.0</string>
+		<string>8.0.0b1</string>
 	</dict>
 	<key>OSBundleRequired</key>
 	<string>Root</string>
