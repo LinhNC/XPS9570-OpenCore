@@ -1,3 +1,25 @@
+## ✦ Explore What I’m Building
+
+> ### [LinhGo →](https://linhgo.com)
+>
+> **Think clearly. Build better. Ship confidently.**
+>
+> Practical notes on software engineering, architecture, and scalable systems.
+>
+> **[Read the latest articles →](https://linhgo.com/)**
+
+---
+
+> ### [OneZ →](https://onez.app)
+>
+> **Tools that make you ruthlessly productive.**
+>
+> Focused tools built to simplify workflows, reduce friction, and help you move faster.
+>
+> **[Explore the tools →](https://onez.app)**
+
+</br>
+
 ![](https://raw.githubusercontent.com/LinhNC/XPS9570-OpenCore/main/Capture.png)
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="XPS9570OpenCore_0"></a>XPS9570 OpenCore</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="3">XPS 9570 Hackintosh with OpenCore 0.7.4<br>
